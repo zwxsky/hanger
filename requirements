@@ -1,4 +1,11 @@
+# Base
 tornado
+-e git://github.com/tioover/Pectin.git#egg=pectin
+
+# Develop & Deplyment
+Fabric
+
+# Fuction
 wtforms
 sqlalchemy
 jinja2

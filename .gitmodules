@@ -1,0 +1,3 @@
+[submodule "Pectin"]
+	path = Pectin
+	url = https://github.com/tioover/Pectin.git

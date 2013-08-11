@@ -1,6 +1,5 @@
 Hanger
 ==================
-## 简单明了的网站模板
 
 **此项目已经废弃**，重写的版本（仍在建设中）请见[Cellwall](https://github.com/tioover/cellwall)。
 
